@@ -1,16 +1,21 @@
-### Helllo Universe 👋
+# Rizal Rorschach's GitHub Profile
 
-<!--
-**rizalrorschach/rizalrorschach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Rizal Rorschach, a passionate developer with a knack for creating innovative solutions and exploring new technologies. Here you'll find a collection of my projects, ranging from web development to cryptography.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Skills
+
+- **Languages:** TypeScript, JavaScript, Python, PHP, HTML
+- **Frameworks:** Next.js, React.js, Tailwind CSS
+- **Tools:** Docker, Vercel, Google Spreadsheet
+
+## Get in Touch
+
+Feel free to reach out if you have any questions or if you'd like to collaborate on a project.
+
+---
+
+Thanks for visiting my profile!
