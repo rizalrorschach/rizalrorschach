@@ -1,16 +1,17 @@
-# Rizal Rorschach's GitHub Profile
-
-Welcome to my GitHub profile! I'm Rizal Rorschach, a passionate developer with a knack for creating innovative solutions and exploring new technologies. Here you'll find a collection of my projects, ranging from web development to cryptography.
-
+👋 Hi, I’m Aji Syamsul Rizal, a web developer with a focus on front-end technologies like React.js, Next.js, TypeScript, and Tailwind CSS.
+🛠️ I also work with backend tools like Node.js and Express.js, and enjoy building full-stack web apps.
+💻 I've been learning and building for over 4 years through personal and freelance projects.
+🚀 Passionate about crypto and exploring the future of web3 development.
+📂 Always improving, always building.
 ## Projects
 
 
 
 ## Skills
 
-- **Languages:** TypeScript, JavaScript, Python, PHP, HTML
+- **Languages:** TypeScript, JavaScript, Python, PHP
 - **Frameworks:** Next.js, React.js, Tailwind CSS
-- **Tools:** Docker, Vercel, Google Spreadsheet
+- **Tools:** Docker, Vercel, Postman
 
 ## Get in Touch
 
